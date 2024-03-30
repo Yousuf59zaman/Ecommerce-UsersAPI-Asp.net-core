@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ecom_WebAPI.props" />
+</Project>

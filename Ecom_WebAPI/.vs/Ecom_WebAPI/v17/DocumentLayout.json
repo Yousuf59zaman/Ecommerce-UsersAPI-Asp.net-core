@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\Ecom\\Ecom_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\dal_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\dal_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\dal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\dal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|f:\\projects\\ecom\\ecom_webapi\\ecom_webapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34C9DB-D57D-4CC9-A74E-1FD84B18B8D5}|Ecom_WebAPI\\Ecom_WebAPI.csproj|solutionrelative:ecom_webapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:35:55.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL_order.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_order.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\DAL_order.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_order.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\DAL_order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:35:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:35:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\Order.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:32:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:16:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_cart.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_cart.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\DAL_cart.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_cart.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\DAL_cart.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:11:20.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\CartItem.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:08:10.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:53:25.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_product.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_product.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\DAL_product.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL_product.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\DAL_product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwDoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:52:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\Product.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:49:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:28:19.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\User.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\User.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:20:16.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\DAL.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\DAL.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:19:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Response.cs",
+              "DocumentMoniker": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Ecom_WebAPI\\Models\\Response.cs",
+              "ToolTip": "F:\\Projects\\Ecom\\Ecom_WebAPI\\Ecom_WebAPI\\Models\\Response.cs",
+              "RelativeToolTip": "Ecom_WebAPI\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:19:28.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
