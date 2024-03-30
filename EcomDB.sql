@@ -1,2 +1,3 @@
 Use EcomDB;
-select * from CartItem;
+
+select * from orderdetail
